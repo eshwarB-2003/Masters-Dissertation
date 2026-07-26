@@ -36,15 +36,15 @@ To compare AI-generated and human-designed software architectures derived from i
 
 ### RQ1
 
-How do AI-generated software architectures compare with human-designed software architectures when derived from the same Software Requirements Specification (SRS)?
+How do AI-generated software architectures compare with published human-designed software architectures when derived from the same Software Requirements Specification (SRS)?
 
 ### RQ2
 
-To what extent do AI-generated software architectures satisfy the functional and quality requirements specified in the Software Requirements Specification?
+To what extent do AI-generated software architectures satisfy the functional and architecturally significant quality requirements derived from the Software Requirements Specification?
 
 ### RQ3
 
-What similarities and differences exist between AI-generated and human-designed software architectures in terms of architectural structure, quality attributes, and requirements-to-architecture traceability?
+What recurring patterns, strengths, and limitations emerge across multiple case studies when comparing AI-generated and published human-designed software architectures?
 
 ---
 
